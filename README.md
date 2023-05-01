@@ -24,5 +24,7 @@ How to play audio in JS - https://www.w3schools.com/jsref/met_audio_play.asp
 
 Below is the live site, source code and a screenshot to assist in design. Do not look at the live site or source code until the user stories are completed.
 Source Code:https://github.com/jpadwor1/drum-kit
+
 Live Site:https://jpadwor1.github.io/drum-kit/
+
 ![image](https://user-images.githubusercontent.com/128070765/235483649-0d36f4d3-befa-4495-91ea-57f0a1578ce3.png)
